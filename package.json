@@ -1,4 +1,14 @@
 {
   "main": "css",
-  "registry": "jspm"
+  "registry": "jspm",
+  "name": "systemjs-plugin-css",
+  "version": "0.1.18",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchambers/plugin-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dchambers/plugin-css/issues"
+  },
+  "homepage": "https://github.com/dchambers/plugin-css#readme"
 }
