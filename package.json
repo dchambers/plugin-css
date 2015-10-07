@@ -10,5 +10,8 @@
   "bugs": {
     "url": "https://github.com/dchambers/plugin-css/issues"
   },
-  "homepage": "https://github.com/dchambers/plugin-css#readme"
+  "homepage": "https://github.com/dchambers/plugin-css#readme",
+  "dependencies": {
+    "clean-css": "^3.4.5"
+  }
 }
